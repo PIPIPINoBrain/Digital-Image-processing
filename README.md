@@ -1,4 +1,6 @@
 # Digital-Image-processing
+##Cpp_Normalizedform
+标准形式Cpp
 ##it contains some basic digital image processing methods, cpp language is uesd to realize it.
 ###Contrast  （对比度增强） contains：
 1.Contrast calculation                    ——对比度计算，值越大对比度越强
